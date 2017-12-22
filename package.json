@@ -1,0 +1,15 @@
+{
+  "name": "hapiproject",
+  "version": "1.0.0",
+  "description": "hapiproject",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon server.js"
+  },
+  "author": "Chris",
+  "license": "ISC",
+  "dependencies": {
+    "hapi": "^17.2.0",
+    "nodemon": "^1.14.2"
+  }
+}
